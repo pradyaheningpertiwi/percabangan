@@ -40,5 +40,5 @@ int main(){
 	cout<<"silahkan "<<kegiatan<<endl;
 	
 	
-	
+	//dari jagat coding
 }
